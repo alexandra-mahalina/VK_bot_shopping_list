@@ -35,6 +35,7 @@ class Product(BaseModel):
             title=self.title,
         )
 
+
 def create_models():
     """
     Создает в базе данных таблицы для всех классов, наследуемых от класса BaseModel
