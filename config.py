@@ -1,1 +1,1 @@
-DB_PATH = "database.db"
+DB_PATH = "database.db" 
