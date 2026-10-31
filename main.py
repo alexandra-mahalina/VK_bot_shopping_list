@@ -145,7 +145,6 @@ def clear_list(user_id: int) -> int:
             .execute()
     )
 
-
 # Основной цикл
 print('Бот запущен...')
 
